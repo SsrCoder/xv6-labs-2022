@@ -20,7 +20,9 @@
 		"vscode": {
 			"extensions": [
 				"ms-vscode.cpptools",
-				"ms-vscode.hexeditor"
+				"ms-vscode.hexeditor",
+				"zhwu95.riscv",
+				"webfreak.debug"
 			]
 		}
 	}
